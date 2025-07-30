@@ -1,0 +1,144 @@
+I am a beginner developer with three years of self-taught experience in C# and Unity. My learning approach focuses on creating various mini-projects, which have not only deepened my understanding of theory but also honed my practical skills. Each project has sparked my curiosity and presented challenges that have fueled my growth and development as a developer.
+
+Now, I am seeking a position as a Junior Unity 2D Game Developer to apply my skills, deepen my knowledge, contribute to the successful implementation of game projects, and, most importantly, collaborate with a creative and interesting team!
+
+Skills:
+
+Basic knowledge of OOP and SOLID principles
+Working with Physics2D
+Integration of graphics and sound effects
+UI creation
+Creating simple animations
+Working with the Animator
+Debugging and problem-solving
+Basic-level optimization
+Using Git for version control
+
+Hobbies: Reading classic literature, language learning, computer and board games.
+
+Languages: Ukrainian, Russian, English (B1), Polish (B2)
+
+
+
+Я Junior Game Developer с трёхлетним опытом самостоятельного изучения C# и Unity. Мой подход к обучению основан на создании множества различных мини-проектов, что помогло не только глубже понять теорию, но и развивать практические навыки. Каждый новый проект вызывал интерес и бросал вызов, который способствовал моему росту и развитию как разработчика.
+
+На данный момент стремлюсь получить позицию Junior Unity 2D Game Developer, чтобы применить приобретенные навыки, расширить свои знания, внести вклад в успешную реализацию игровых проектов и, конечно же, работать в интересной, креативной команде!
+
+Навыки: 
+- базовые знания ООП и SOLID; 
+- работа с Physic2D;
+- интеграция графики и звуковых эффектов;
+- создание UI; 
+- создание анимации;
+- работа с аниматором; 
+- отладка и решение проблем;
+- оптимизация на базовом уровне;
+- использование Git для контроля версий.
+
+Хобби: 
+Чтение классической литературы
+Изучение языков 
+Компьютерные и настольные игры
+
+Языки: украинский, русский, английский (В1), польский (В2)
+
+
+
+Я Junior Game Developer із трирічним досвідом самостійного вивчення C# та Unity. Мій підхід до навчання базується на створенні численних міні-проєктів, що допомогло не лише глибше засвоїти теорію, а й розвинути практичні навички. Кожен новий проект викликав інтерес та кидав виклик, який сприяв моєму професійному зростанню як розробника.
+
+На даний момент прагну отримати позицію Junior Unity 2D Game Developer, щоб застосувати набуті навички, розширити свої знання, зробити внесок у реалізацію успішних ігрових проектів і, звісно, працювати в цікавій, креативній команді!
+
+Навички:
+
+- базові знання ООП та SOLID;
+- робота з Physic2D;
+- інтеграція графіки та звукових ефектів;
+- створення UI;
+- створення простих анімацій;
+- робота з аніматором;
+- налагодження та вирішення проблем;
+- базова оптимізація;
+- використання Git для контролю версій.
+
+Хобі:
+Читання класичної літератури
+Вивчення мов
+Комп’ютерні та настільні ігри
+
+Мови:
+українська, російська, англійська (B1), польська (B2).
+
+
+
+Jestem początkującym programistą z trzyletnim doświadczeniem w samodzielnej nauce C# i Unity. Mój sposób nauki opiera się na tworzeniu różnych mini-projektów, co pomogło mi nie tylko zgłębić teorię, ale również rozwinąć praktyczne umiejętności. Każdy nowy projekt był interesującym wyzwaniem, które przyczyniło się do mojego rozwoju jako programisty.
+
+Obecnie dążę do zdobycia stanowiska Junior Unity 2D Game Developer, aby wykorzystać zdobyte umiejętności, poszerzyć wiedzę, przyczynić się do realizacji udanych projektów gier i, oczywiście, pracować w kreatywnym zespole!
+
+Umiejętności:
+- podstawowa znajomość OOP i SOLID;
+- praca z Physic2D;
+- integracja grafiki i efektów dźwiękowych;
+- tworzenie interfejsów użytkownika (UI);
+- tworzenie prostych animacji;
+- praca z animatorem;
+- debugowanie i rozwiązywanie problemów;
+- podstawowa optymalizacja;
+- korzystanie z Git do kontroli wersji.
+
+Zainteresowania:
+Czytanie literatury klasycznej
+Nauka języków obcych
+Granie w gry komputerowe i planszowe
+
+Języki:
+ukraiński (C1), rosyjski (C1), angielski (B1), polski (B2).
+
+
+Проекты:
+
+Balloon Popping is one of the first mini-projects in the match-3 genre, developed to study and gain practical experience with key Unity components, including working with collections, events, colliders, and basic UI elements.
+
+Balloon Popping — один из первых мини-проектов в жанре "три в ряд", разработанный с целью изучения и практического освоения ключевых компонентов Unity, включая работу с коллекциями, ивентами, коллайдерами и основами UI.
+
+Balloon Popping — один із перших міні-проектів у жанрі "три в ряд", розроблений для вивчення і практичного освоєння ключових компонентів Unity, включаючи роботу з колекціями, подіями, колайдерами та основами UI.
+
+Balloon Popping to jeden z pierwszych mini-projektów w gatunku "trzy w rzędzie", stworzony w celu nauki i praktycznego opanowania kluczowych komponentów Unity, w tym pracy z kolekcjami, zdarzeniami, colliderami oraz podstawami UI.
+
+Ccылка на Git: https://github.com/kicadrica/BalloonPopping
+
+
+Hero Battle is a shooter with enemy waves and a character upgrade system, where tasks were solved to create levels using Scriptable Objects and optimize shooting with the Object Pool pattern. The project extensively used animations, sounds, the DOTween library, and the Particle System, which significantly enhanced my Unity skills.
+
+Hero Battle — шутер с волнами врагов и системой улучшения персонажа, в котором были решены задачи по созданию уровней с использованием Scriptable Object и оптимизации стрельбы с помощью паттерна Object Pool. В проекте активно использовались анимации, звуки, библиотека DOTween и Particle System, что позволило значительно улучшить навыки работы с Unity.
+
+Hero Battle — шутер з хвилями ворогів та системою покращення персонажа, в якому були вирішені завдання по створенню рівнів з використанням Scriptable Object та оптимізації стрільби за допомогою патерну Object Pool. У проекті активно використовувались анімації, звуки, бібліотека DOTween та Particle System, що допомогло значно покращити навички роботи з Unity.
+
+Hero Battle to strzelanka z falami wrogów i systemem ulepszania postaci, w której rozwiązano zadania związane z tworzeniem poziomów za pomocą Scriptable Object oraz optymalizacją strzelania za pomocą wzorca Object Pool. W projekcie aktywnie wykorzystywano animacje, dźwięki, bibliotekę DOTween i Particle System, co pozwoliło znacznie poprawić umiejętności pracy z Unity.
+
+Ccылка на Git: https://github.com/kicadrica/HeroBattle
+
+Find The Fox is a meditative logic game where the goal is to locate the foxes in the fewest moves possible. The project utilized two-dimensional arrays, featured a dynamically expandable field, and included a progress-saving system. The DOTween library was used for animations, enhancing visual effects and player interaction.
+
+Find The Fox — медиативная, логическая игра, цель которой — вычислить местонахождение лисичек за минимальное количество ходов. В проекте использовались двухмерные массивы, присутствует динамически расширяемое поле и система сохранения прогресса. Для анимаций применялась библиотека DOTween, что позволило улучшить визуальные эффекты и взаимодействие с игроком.
+
+Find The Fox — медитативна логічна гра, мета якої — визначити місцезнаходження лисичок за мінімальну кількість ходів. У проєкті використовувалися двовимірні масиви, присутнє динамічно розширюване поле та система збереження прогресу. Для анімацій застосовувалася бібліотека DOTween, що дозволило покращити візуальні ефекти та взаємодію з гравцем.
+
+Find The Fox to medytacyjna, logiczna gra, której celem jest obliczenie lokalizacji lisiczek w jak najmniejszej liczbie ruchów. W projekcie wykorzystano dwuwymiarowe tablice, dynamicznie rozszerzane pole oraz system zapisywania postępów. Do animacji zastosowano bibliotekę DOTween, co pozwoliło poprawić efekty wizualne i interakcję z graczem.
+
+Ccылка на Git: https://github.com/kicadrica/FindTheFox
+
+HarvestIslands is the largest project in the farm genre, with a logical conclusion and the possibility of expansion. During development, interactions with various items were implemented. The project features an extensive menu with a quest and achievement system. Inventory display and character upgrades were also realized. A significant challenge was the visual design of the game, with some graphical elements being hand-drawn. This project allowed me to dive deeper into complex, long-term development and thoroughly enhance my professional skills.
+
+Access to the project upon request.
+
+HarvestIslands — самый масштабный проект в жанре фермы, имеющий логическое завершение и возможность расширения. В процессе разработки были реализованы взаимодействия с разными предметами. Присутствует обширное меню с системой квестов и достижений. Реализовано отображение инвентаря и улучшение персонажа. Большим вызовом стало визуальное оформление игры, некоторые элементы графики были дорисованы самостоятельно. Этот проект позволил глубже погрузиться в комплексную, продолжительную разработку и всесторонне развить профессиональные навыки.
+
+Доступ к проекту по запросу. 
+
+HarvestIslands — найбільший проєкт у жанрі ферми, що має логічне завершення та можливість розширення. В процесі розробки були реалізовані взаємодії з різними предметами. Присутнє обширне меню з системою квестів і досягнень. Реалізовано відображення інвентарю та покращення персонажа. Великим викликом стало візуальне оформлення гри, деякі елементи графіки були дороблені самостійно. Цей проєкт дозволив глибше зануритись у комплексну, тривалу розробку і всебічно розвинути професійні навички.
+
+Доступ до проекту за запитом.
+
+HarvestIslands to najbardziej rozbudowany projekt w gatunku farmy, mający logiczne zakończenie i możliwość rozszerzenia. W trakcie tworzenia zrealizowano interakcje z różnymi przedmiotami. Projekt zawiera rozbudowane menu z systemem misji i osiągnięć. Wdrożono wyświetlanie ekwipunku i ulepszanie postaci. Wielkim wyzwaniem było stworzenie oprawy wizualnej gry, niektóre elementy grafiki zostały dorysowane samodzielnie. Ten projekt pozwolił głębiej zanurzyć się w kompleksową, długoterminową produkcję i wszechstronnie rozwinąć umiejętności zawodowe.
+
+Dostęp do projektu na życzenie.
