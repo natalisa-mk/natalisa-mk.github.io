@@ -412,14 +412,74 @@
                         <div class="title-line2"></div>
                         <h2 class="fs-three p1-color fw-semibold">Мови</h2>
                       </div>
-                      <ul class="d-flex flex-column gap-3 ms-6 ms-lg-10">
-                    
-                        <li class="n4-color fs-seven">
-                          українська, російська, англійська (B1), польська (B2)
+
+                      <ul class="d-flex flex-column gap-3 ms-6 ms-lg-10 list-unstyled">
+                        <li class="d-grid lang-row n4-color fs-seven">
+                          Українська
+                          <span class="d-flex gap-1">
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                          </span>
                         </li>
-              
+
+                        <li class="d-grid lang-row n4-color fs-seven">
+                          Російська
+                          <span class="d-flex gap-1">
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                          </span>
+                        </li>
+
+                        <li class="d-grid lang-row n4-color fs-seven">
+                          Англійська
+                          <span class="d-flex gap-1">
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle"></span>
+                            <span class="circle"></span>
+                          </span>
+                        </li>
+
+                        <li class="d-grid lang-row n4-color fs-seven">
+                          Польська
+                          <span class="d-flex gap-1">
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle filled"></span>
+                            <span class="circle"></span>
+                          </span>
+                        </li>
                       </ul>
                     </div>
+
+                    <style>
+                      .lang-row {
+                        display: grid;
+                        grid-template-columns: 115px auto; 
+                        align-items: center;
+                      }
+
+                      .circle {
+                        display: inline-block;
+                        width: 7px;   
+                        height: 7px;  
+                        border: 1px solid white;
+                        border-radius: 50%;
+                      }
+                      .circle.filled {
+                        background-color: white;
+                      }
+                    </style>
+
+
                     <!-- Hobbies  -->
                     <div>
                       <div class="d-flex align-items-center gap-2 mb-3 mb-md-6">
